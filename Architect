@@ -1,0 +1,44 @@
+public class Resume {
+    public static void main(String[] args) {
+        System.out.println("# DANILO PEGUERO\n");
+        System.out.println("**Email:** danilo.peguerro@gmail.com | **Phone:** 734.395.6406 | **LinkedIn:** [linkedin.com/in/danilopeguerro](https://www.linkedin.com/in/danilopeguerro)\n");
+
+        System.out.println("## Summary");
+        System.out.println("Experienced technology professional with a distinguished career spanning over two decades. Certified in Google Cloud, Microsoft Azure, Cisco, AWS, and TOGAF. Proven expertise in enterprise architecture, cloud solutions, DevOps, machine learning, and contact center technologies. Adept at leading innovative teams and driving digital transformations across diverse industries.\n");
+
+        System.out.println("## Skills");
+        // ... List of skills here
+
+        System.out.println("## Experience");
+
+        System.out.println("### Amazon Connect CX Solution Architect");
+        System.out.println("**Aspen & Morse Technology** | Remote | 02/2022 - Present");
+        // ... Description of experience
+
+        System.out.println("### CX Solution Architect");
+        System.out.println("**US DEPARTMENT OF VETERANS AFFAIRS** | Remote | 01/2017 - 02/2020");
+        // ... Description of experience
+
+        System.out.println("### Principal FSA, Intelligent CX Presales");
+        System.out.println("**West IP Communication** | Remote | 05/2014 - 01/2017");
+        // ... Description of experience
+
+        System.out.println("### CX Sales Engineer");
+        System.out.println("**TTEC** | Denver, CO | 03/2010 - 05/2014");
+        // ... Description of experience
+
+        System.out.println("## Education");
+        // ... List of education details
+
+        System.out.println("## Certifications");
+        // ... List of certifications
+
+        System.out.println("## Awards");
+        // ... List of awards
+
+        System.out.println("## GitHub Repositories");
+        // ... Description of GitHub repositories
+
+        System.out.println("Feel free to reach out to me for collaboration or to learn more about my experience!");
+    }
+}
